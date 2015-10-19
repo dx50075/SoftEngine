@@ -6,6 +6,5 @@ D:\Personal\Documents\SoftEngine\SoftEngine\bin\Debug\SoftEngine.exe
 D:\Personal\Documents\SoftEngine\SoftEngine\bin\Debug\SoftEngine.pdb
 D:\Personal\Documents\SoftEngine\SoftEngine\obj\Debug\SoftEngine.exe
 D:\Personal\Documents\SoftEngine\SoftEngine\obj\Debug\SoftEngine.pdb
-D:\Personal\Documents\SoftEngine\SoftEngine\obj\Debug\SoftEngine.csprojResolveAssemblyReference.cache
 D:\Personal\Documents\SoftEngine\SoftEngine\bin\Debug\SharpDX.dll
 D:\Personal\Documents\SoftEngine\SoftEngine\bin\Debug\SharpDX.xml
